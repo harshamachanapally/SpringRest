@@ -23,7 +23,7 @@ import com.example.SecurityConfiguration;
 public class SpringRestApplication {
 	final static Logger logger = Logger.getLogger(SpringRestApplication.class);
 	public static void main(String[] args) {
-		logger.debug("Application started -- By Harsha");
+		//logger.debug("Application started -- By Harsha");
 		SpringApplication.run(SpringRestApplication.class, args);
 	}
 	
